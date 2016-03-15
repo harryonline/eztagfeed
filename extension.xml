@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>eZ Tag Feed</name>
+        <version>//autogentag//</version>
+        <copyright>Copyright (C) © 2016 HarryOnline, HarryOnline All rights reserved.</copyright>
+        <license>//EZP_LICENSE//</license>
+        <info_url>http://projects.ez.no/eztagfeed</info_url>
+    </metadata>
+    <dependencies>
+        <requires>
+            <extension name="eztags" />
+        </requires>
+    </dependencies>
+</software>
