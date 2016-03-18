@@ -1,13 +1,9 @@
 {
-    "name": "informaticatrentina/eztagfeed",
+    "name": "harryonline/eztagfeed",
     "version": "1.0",
-    "description": "Informatica Trentina SpA - eztagfeed",
+    "description": "HarryOnline - eztagfeed",
     "type": "ezpublish-legacy-extension",
     "authors": [
-        {
-            "name": "Informatica Trentina SpA",
-            "homepage": "http://www.infotn.it"
-        },
         {
             "name": "HarryOnline",
             "homepage": "http://www.harryonline.net/"
